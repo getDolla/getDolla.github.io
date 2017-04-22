@@ -1,0 +1,25 @@
+.navbar-custom, footer .footer-below {
+  background: #333;
+  color: red;
+}
+.navbar-custom .navbar-brand, .navbar-custom .navbar-brand.active, .navbar-custom .navbar-brand:active,
+.navbar-custom .navbar-brand:focus, .navbar-custom .navbar-brand:hover, .navbar-custom .navbar-nav li a
+{
+  color: red;
+}
+a.active, a:active, a:focus, a:hover, .navbar-custom .navbar-nav li a:hover { color: white; }
+header {
+  background: white;
+  color: black;
+}
+section.success {
+  background: white;
+  color: black
+}
+.btn-outline {
+  border: 2px solid #333;
+  color: #333;
+}
+h2 {
+  padding-bottom: 2%;
+}
