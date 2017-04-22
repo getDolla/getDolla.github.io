@@ -23,3 +23,11 @@ section.success {
 h2 {
   padding-bottom: 2%;
 }
+.success {
+  padding: 8% 0% 2% 0%;
+}
+.navbar-custom .navbar-toggle:focus, .navbar-custom .navbar-toggle:hover {
+  background: #333;
+  color: white;
+  border-color: white;
+}
