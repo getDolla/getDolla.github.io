@@ -7,7 +7,10 @@
 {
   color: red;
 }
-a.active, a:active, a:focus, a:hover, .navbar-custom .navbar-nav li a:hover { color: white; }
+a:hover, .navbar-custom .navbar-nav li a:hover { color: white; }
+.navbar-custom .navbar-nav .dropdown-menu li a:hover {
+  color: black;
+}
 header {
   background: white;
   color: black;
