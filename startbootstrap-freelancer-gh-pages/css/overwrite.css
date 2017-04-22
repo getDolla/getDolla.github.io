@@ -20,7 +20,8 @@ section.success {
   border: 2px solid #333;
   color: #333;
 }
-h2 {
+h2, section h2 {
+  font-size: 28px;
   padding-bottom: 2%;
 }
 .success {
@@ -30,4 +31,7 @@ h2 {
   background: #333;
   color: white;
   border-color: white;
+}
+p {
+  font-size: 16px;
 }
