@@ -33,7 +33,7 @@ h2, section h2 {
   padding-bottom: 3.2%;
 }
 li { margin-bottom: 6px; }
-.success { padding: 8% 0% 2% 0%; }
+.success { padding: 10% 0% 0% 0%; }
 .navbar-custom .navbar-toggle:focus, .navbar-custom .navbar-toggle:hover {
   background: #333;
   color: white;
