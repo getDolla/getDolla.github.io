@@ -43,15 +43,13 @@ section, p, .success { font-size: 17px; }
 footer { padding-top: 4%; }
 @media screen and (min-width: 1200px) {
   .col-lg-7 ul { padding-left: 20%;  }
-  .special>ul { padding-left: 16%;  }
   .success .col-lg-5-offset-2 img {
     width: 30%;
     height: 30%;
   }
-  .success .col-lg-6 img {
-    width: 120%;
-    height: 120%;
-  }
+}
+@media screen and (min-width: 1000px) {
+  .special>ul { padding-left: 18%;  }
 }
 @media screen and (max-width: 1200px) {
   .success .col-lg-5-offset-2 {
@@ -60,9 +58,5 @@ footer { padding-top: 4%; }
   .success .col-lg-5-offset-2 img {
     width: 50%;
     height: 50%;
-  }
-  .success .col-lg-6 img {
-    width: 70%;
-    height: 70%;
   }
 }
